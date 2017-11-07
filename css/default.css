@@ -1,0 +1,137 @@
+.img-logo-top{
+	width: 45%;
+	height: auto;
+	color: #dcc;
+	font-size: 28pt;
+	text-transform: uppercase;
+	text-shadow: 2px 1px 2px #0de7d8;
+	font-family: monospace, lucida console;
+}
+.section-description {
+    text-align: left !important;
+}
+.second-about-row{
+  margin-top: 35px;
+  padding: 10px;
+}
+#area-map #map{
+	width: 98%;
+	height: 513px;
+	margin-left: 1%;
+	margin-top: 25px;
+}
+#services #readmore-btn {
+  background: #4A048A;
+  border: 2px solid #03C4EB;
+  color: #2bfced;
+  font-size: 11pt;
+  font-variant: all-small-caps;
+}
+
+#services #readmore-btn:hover {
+  background: none;
+  border: 2px solid #069008;
+  color: #f01498;
+}
+#user-icon #admin-img{
+  width: 48px;
+  height: auto;
+  float: right;
+}
+
+#locatorTxt{
+	font-family: sans-serif, monospace;
+	font-size: 20pt;
+	color: #18E3D4;
+	text-shadow: 2px 8px 6px rgba(8, 68, 4, 0.2), 0px -5px 35px rgba(74, 3, 150, 0.3);
+}
+#geolocate-container{
+	box-shadow: 1px 6px 7px #0B5D4C;
+	background-color: #332466;
+	border-radius: 1.5em;
+	width: 160px;
+	text-align: center;
+	cursor: pointer;
+}
+#search-box{
+	border: 1px dotted #80F8EB;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.1) inset, 0px 0px 16px rgba(0, 0, 0, 0.1);
+	padding: 2px;
+	background: rgba(35, 11, 71, 0.9) none repeat;
+	margin: 6px 0px 0px 10px;
+	color: #18E3D4;
+	border-radius: 2.3em;
+	font-size: 15pt;
+	width: 180px;
+	text-align: center;
+}
+#geocode{
+color: #18E3D4;
+box-shadow: 1px 6px 7px #0B5D4C;
+position: absolute;
+left: 398px;
+top: 0px;
+margin: 5px 0px 0px 7px;
+border-radius: 1.3em;
+border: 1px dotted rgb(55, 240, 227);
+padding: 3px;
+width: 103px;
+font-size: 15pt;
+font-variant: all-petite-caps;
+background: rgba(35, 11, 71, 0.9) none repeat;
+cursor: pointer;
+}
+#baseMapControl{
+	box-shadow: 1px 6px 7px #0B5D4C;
+	background: rgba(35, 11, 71, 0.9) none repeat scroll 0% 0%;
+	color: #23A21B;
+	font-size: 12pt;
+	font-family: monospace, lucida console;
+	font-variant: all-petite-caps;
+}
+#iconDiv > img{
+	float: right;
+	width: 44px;
+	height: auto;
+}
+#mobile-clinic-info span{
+	display: block;
+	font-size: 11pt;
+	color: #009282;
+}
+#map
+{
+	position: relative;
+	box-shadow: 0px 1px 4px rgba(81, 233, 35, 0.3), 0px 0px 40px rgba(17, 26, 206, 0.1) inset;
+}
+#map:before, #map:after
+{
+    content:"";
+    position:absolute;
+    z-index:-1;
+    -webkit-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    -moz-box-shadow:0 0 20px rgba(0,0,0,0.8);
+    box-shadow:0 0 20px rgba(0,0,0,0.8);
+    top:10px;
+    bottom:10px;
+    left:0;
+    right:0;
+    -moz-border-radius:100px / 10px;
+    border-radius:100px / 10px;
+}
+#map:after
+{
+    right:10px;
+    left:auto;
+    -webkit-transform:skew(8deg) rotate(3deg);
+       -moz-transform:skew(8deg) rotate(3deg);
+        -ms-transform:skew(8deg) rotate(3deg);
+         -o-transform:skew(8deg) rotate(3deg);
+            transform:skew(8deg) rotate(3deg);
+}
+#point-data-info span{
+	display:block;
+	font-size:12pt;
+	color:#095287;
+	font-family: lucida console, monospace;
+}

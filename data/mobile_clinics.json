@@ -1,0 +1,698 @@
+[
+  {
+      "township": "Thika, Kiambu County, Kenya",
+      "data": [
+          {
+              "latlng": {
+                  "lat": "-1.03888",
+                  "lng": "37.08323500000006"
+              },
+              "name": "Aga Khan University Hospital Medical Centre",
+              "type": "hospital",
+              "vicinity": "Juja Professional Centre, Thika Road, Nairobi"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0365354",
+                  "lng": "37.077276299999994"
+              },
+              "name": "Galaxy Medicare consultants",
+              "type": "hospital",
+              "vicinity": "First floor Kenya canners plaza, Wabera Street, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.036873",
+                  "lng": "37.073775299999966"
+              },
+              "name": "Meridian Medical Centre",
+              "type": "pharmacy",
+              "vicinity": "Ground Floor, Thika Arcade, Kenyatta Avenue, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0370631",
+                  "lng": "37.073728000000074"
+              },
+              "name": "Shadon Medical Diagnostics and Laboratories Ltd",
+              "type": "hospital",
+              "vicinity": "building 3rd floor, Thika - Mang'u Road, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.041305",
+                  "lng": "37.07250069999998"
+              },
+              "name": "Medicross Juja",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0411169",
+                  "lng": "37.072109299999966"
+              },
+              "name": "The Mater Hospital",
+              "type": "hospital",
+              "vicinity": "OAU Road, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0403823",
+                  "lng": "37.06984590000002"
+              },
+              "name": "Partners in Health, Research and Development",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0387569",
+                  "lng": "37.08337529999994"
+              },
+              "name": "Naidu Hospital Thika",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0388404",
+                  "lng": "37.08052040000007"
+              },
+              "name": "Kandara Medical Services",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0391274",
+                  "lng": "37.07938850000005"
+              },
+              "name": "pona leo",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.03528",
+                  "lng": "37.0812449"
+              },
+              "name": "Central Memorial Hospital Ltd",
+              "type": "hospital",
+              "vicinity": "Upper Hill Road, Off Majengo Road, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.038722",
+                  "lng": "37.07919130000005"
+              },
+              "name": "Dr Wachira Health Services",
+              "type": "hospital",
+              "vicinity": "Next To Amani House, Upper Road, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0382869",
+                  "lng": "37.078984799999944"
+              },
+              "name": "Eye Vision Optical",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0400331",
+                  "lng": "37.079050499999994"
+              },
+              "name": "Good Sight Opticians",
+              "type": "hospital",
+              "vicinity": "Next To Karori Justice Blog, General Kago Road, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0403874",
+                  "lng": "37.079134299999964"
+              },
+              "name": "Joy Medical Services",
+              "type": "hospital",
+              "vicinity": "Igegania House, Opposite St. Patrick Church Chapel, General Kago Road, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0381686",
+                  "lng": "37.078587200000015"
+              },
+              "name": "Vineyard Hospital.. Dr Wachira Health Services",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.041614",
+                  "lng": "37.07909440000003"
+              },
+              "name": "Thika Level 5 Hospital",
+              "type": "hospital",
+              "vicinity": "General Kago Road, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0389825",
+                  "lng": "37.078224399999954"
+              },
+              "name": "Joy Clinic",
+              "type": "hospital",
+              "vicinity": "Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0386391",
+                  "lng": "37.07668950000004"
+              },
+              "name": "Thika Endoscopy Center",
+              "type": "hospital",
+              "vicinity": "Wabera Street, Thika"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0395135",
+                  "lng": "37.09030510000002"
+              },
+              "name": "Mission Hospital",
+              "type": "hospital",
+              "vicinity": "Thika"
+          }
+      ]
+  }, {
+      "township": "Juja, Kiambu County, Kenya",
+      "data": [
+          {
+              "latlng": {
+                  "lat": "-1.107961",
+                  "lng": "37.01381100000003"
+              },
+              "name": "Chebu Healthcare Services LTD",
+              "type": "pharmacy",
+              "vicinity": "Karimoni Highway View Plaza, Juja"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1015452",
+                  "lng": "37.013656200000014"
+              },
+              "name": "Joyland Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Shop 4, Ground Floor, Executive Building, Opposite Jkuat Main Entrance, Muramati Road"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.104358",
+                  "lng": "37.01356980000003"
+              },
+              "name": "Glory Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Juja"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1054407",
+                  "lng": "37.01435900000001"
+              },
+              "name": "WANKAM MEDICAL CENTRE",
+              "type": "hospital",
+              "vicinity": "next Bata Shop, Gatundu-Juja Road, Juja"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1071326",
+                  "lng": "37.016019599999936"
+              },
+              "name": "The Aga Khan University Hospital",
+              "type": "hospital",
+              "vicinity": "Muchatha"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0966017",
+                  "lng": "37.01288709999994"
+              },
+              "name": "JKUAT Hospital",
+              "type": "hospital",
+              "vicinity": "Juja"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0994796",
+                  "lng": "37.02430800000002"
+              },
+              "name": "Juja Modern Maternity",
+              "type": "hospital",
+              "vicinity": "Juja"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0919983",
+                  "lng": "37.02051030000007"
+              },
+              "name": "Trinity Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Gachororo Road, Juja"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0901985",
+                  "lng": "37.01800349999996"
+              },
+              "name": "Gachororo",
+              "type": "hospital",
+              "vicinity": "Juja"
+          }
+      ]
+  }, {
+      "township": "Gatundu, Kiambu County, Kenya",
+      "data": [
+          {
+              "latlng": {
+                  "lat": "-1.0151885",
+                  "lng": "36.90612179999994"
+              },
+              "name": "Gatundu District Hospital",
+              "type": "hospital",
+              "vicinity": "Gatundu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0141225",
+                  "lng": "36.9064611"
+              },
+              "name": "Health Watch Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0142995",
+                  "lng": "36.9064558"
+              },
+              "name": "Gatundu Government Hospital",
+              "type": "hospital",
+              "vicinity": ""
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0110947",
+                  "lng": "36.904862500000036"
+              },
+              "name": "Uzima Medical Clinic",
+              "type": "hospital",
+              "vicinity": ""
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0148733",
+                  "lng": "36.90606950000006"
+              },
+              "name": "Level Four Hospital",
+              "type": "hospital",
+              "vicinity": "Gatundu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0149578",
+                  "lng": "36.9113102"
+              },
+              "name": "St Marys Mission Dispensary Gatundu",
+              "type": "hospital",
+              "vicinity": "Gatundu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.0171422",
+                  "lng": "36.91480409999997"
+              },
+              "name": "Saint Jude Nursing Home",
+              "type": "hospital",
+              "vicinity": ""
+          }
+      ]
+  }, {
+      "township": "Kiambu, Kiambu County, Kenya",
+      "data": [
+          {
+              "latlng": {
+                  "lat": "-1.174826",
+                  "lng": "36.830795999999964"
+              },
+              "name": "Aga Khan University Hospital Medical Centre",
+              "type": "hospital",
+              "vicinity": "Kiambu Road, Standared Chartered Building, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1716343",
+                  "lng": "36.84194279999997"
+              },
+              "name": "Marura Nursing Home, Kirigiti Branch",
+              "type": "hospital",
+              "vicinity": "Kenya"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1651266",
+                  "lng": "36.82297029999995"
+              },
+              "name": "Radiant Hospital - Kiambu Branch",
+              "type": "hospital",
+              "vicinity": "Opposite Depot, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.162411",
+                  "lng": "36.82817799999998"
+              },
+              "name": "Aga Khan Hospital",
+              "type": "hospital",
+              "vicinity": "Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1727555",
+                  "lng": "36.83073760000002"
+              },
+              "name": "Mercy Light Hospital",
+              "type": "hospital",
+              "vicinity": "Keigi House, Biashara Street, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1725454",
+                  "lng": "36.83019999999999"
+              },
+              "name": "Kiambu Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1725454",
+                  "lng": "36.83019999999999"
+              },
+              "name": "Out patient clinic",
+              "type": "hospital",
+              "vicinity": "Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1723717",
+                  "lng": "36.829695300000026"
+              },
+              "name": "Kikinga House Clinic",
+              "type": "hospital",
+              "vicinity": "Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1721193",
+                  "lng": "36.829294600000026"
+              },
+              "name": "The Aga Khan University Hospital",
+              "type": "hospital",
+              "vicinity": "Along Kiambu University, Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1720785",
+                  "lng": "36.82929660000002"
+              },
+              "name": "Aga Khan University Hospital - Kiambu",
+              "type": "hospital",
+              "vicinity": "Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1702871",
+                  "lng": "36.828163399999994"
+              },
+              "name": "St. Mary's Mothers Child Medical Services",
+              "type": "hospital",
+              "vicinity": "Along Biashara Street, Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1703434",
+                  "lng": "36.82710759999998"
+              },
+              "name": "AFYA BORA NUTRITIONAL CLINIC",
+              "type": "hospital",
+              "vicinity": "Prime Line Surveys,, Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1700283",
+                  "lng": "36.82704149999995"
+              },
+              "name": "St. Mark Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Shop B5, Nami Plaza, Along Biashara Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1666383",
+                  "lng": "36.82537520000005"
+              },
+              "name": "Marura Nursing Home Kiambu Branch",
+              "type": "hospital",
+              "vicinity": "K. K Towers, Along Kiambu Githunguri Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1666323",
+                  "lng": "36.82532179999998"
+              },
+              "name": "St Anns Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1666186",
+                  "lng": "36.82527870000001"
+              },
+              "name": "Out patient clinic",
+              "type": "hospital",
+              "vicinity": "Kiambu Road, Kiambu"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1649554",
+                  "lng": "36.82376279999994"
+              },
+              "name": "St. Mary's Medical &Lab",
+              "type": "hospital",
+              "vicinity": "Kiambu Road"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1849835",
+                  "lng": "36.83879839999997"
+              },
+              "name": "Kiambu Road Veterinary Clinic",
+              "type": "hospital",
+              "vicinity": "Kenya"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1711865",
+                  "lng": "36.83007380000004"
+              },
+              "name": "Kiambu District Hospital",
+              "type": "hospital",
+              "vicinity": "Kiambu"
+          }
+      ]
+  }, {
+      "township": "Ruiru, Kiambu County, Kenya",
+      "data": [
+          {
+              "latlng": {
+                  "lat": "-1.1440557",
+                  "lng": "36.95689970000001"
+              },
+              "name": "Kalimoni Mission Hospital",
+              "type": "hospital",
+              "vicinity": "Near Mathigu Road - Medical Centre, Past Ruiru Bus Terminus, Off Ruiru Kamiti Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1474125",
+                  "lng": "36.96104170000001"
+              },
+              "name": "Everest Medical Centre",
+              "type": "hospital",
+              "vicinity": "2nd Floor, CK Building, Opposite Bushgate Towers, Ruiru Kamiti Rd, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1468601",
+                  "lng": "36.96081879999997"
+              },
+              "name": "Ruiru Health Clinic",
+              "type": "hospital",
+              "vicinity": "Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1475157",
+                  "lng": "36.96086130000003"
+              },
+              "name": "St. Josef Medical Centre",
+              "type": "hospital",
+              "vicinity": "Behind C K Business Centre, Near X - Ray Centre, Ruiru Kamiti Rd, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1474863",
+                  "lng": "36.96062159999997"
+              },
+              "name": "Saint Joseph Medical Centre",
+              "type": "hospital",
+              "vicinity": "Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.147655",
+                  "lng": "36.960646999999994"
+              },
+              "name": "Ruiru X-Ray Center",
+              "type": "hospital",
+              "vicinity": "Ruiru Kamiti Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1487386",
+                  "lng": "36.960757400000034"
+              },
+              "name": "St. Clare's Medical Centre",
+              "type": "hospital",
+              "vicinity": "Ground Floor, Sunrise Plaza, Railway Street, Off Ruiru Kamiti Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1466978",
+                  "lng": "36.95969450000007"
+              },
+              "name": "Gewa Hospital",
+              "type": "hospital",
+              "vicinity": "Near Father's House Family Church, Ruiru Kamiti Rd, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1472583",
+                  "lng": "36.95893849999993"
+              },
+              "name": "Gladys Clinic",
+              "type": "hospital",
+              "vicinity": "Shop No. 3, Ground Floor, Next To Wakulima House, Ruiru Kamiti Rd, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1476321",
+                  "lng": "36.958911299999954"
+              },
+              "name": "Ruiru Diagnosis Medical Laboratory",
+              "type": "hospital",
+              "vicinity": "Shop 207, 2nd Floor, Off Ruiru Kamiti Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.147082",
+                  "lng": "36.95806440000001"
+              },
+              "name": "Shikamoo Medical Centre",
+              "type": "hospital",
+              "vicinity": "1st Floor, Shikamoo, Mathigu Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1489947",
+                  "lng": "36.958732000000055"
+              },
+              "name": "Wendo Hospital Ruiru",
+              "type": "hospital",
+              "vicinity": "C63, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1466817",
+                  "lng": "36.957959500000015"
+              },
+              "name": "Mathingu Road Medical Clinic",
+              "type": "hospital",
+              "vicinity": "Ground Floor, Melody House, Mathigu Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1468101",
+                  "lng": "36.957950799999935"
+              },
+              "name": "Summer Laboratory",
+              "type": "hospital",
+              "vicinity": "Ground Floor, Melody House, Mathigu Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1441114",
+                  "lng": "36.95801210000002"
+              },
+              "name": "Ruiru Hospital Limited",
+              "type": "hospital",
+              "vicinity": "Past Ruiru Bus Terminus, Off Ruiru Kamiti Road, Near Mathigu Road Medical Centre, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1452662",
+                  "lng": "36.95732750000002"
+              },
+              "name": "The Haven Medical Centre",
+              "type": "hospital",
+              "vicinity": "Near Mathigu Road - Medical Centre, Past Ruiru Bus Terminus, Off Ruiru Kamiti Road, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1438003",
+                  "lng": "36.95634480000001"
+              },
+              "name": "Ruiru Health Centre",
+              "type": "hospital",
+              "vicinity": "Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1445471",
+                  "lng": "36.95587939999996"
+              },
+              "name": "Ruiru Sub - District Hospital",
+              "type": "hospital",
+              "vicinity": "Past Ruiru Bus Terminus, Off Ruiru Kamiti Road, Near Mathigu Road Medical Centre, Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1446325",
+                  "lng": "36.9557863"
+              },
+              "name": "Ruiru Hospital",
+              "type": "hospital",
+              "vicinity": "Ruiru"
+          },
+          {
+              "latlng": {
+                  "lat": "-1.1554602",
+                  "lng": "36.959785099999976"
+              },
+              "name": "Plainsview Nursing Home",
+              "type": "hospital",
+              "vicinity": "Thika Super Highway"
+          }
+      ]
+  }
+]
